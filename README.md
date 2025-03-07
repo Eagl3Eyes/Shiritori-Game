@@ -39,7 +39,11 @@ A simple two-player Shiritori game built with React and Tailwind CSS. Players ta
    git clone https://github.com/Eagl3Eyes/Shiritori-Game.git
    cd shiritori-game
 2. Install dependencies:
-Using npm:
-```sh
-npm install
+    ```sh
+    npm install
+3. Start the development server:
+    ```sh
+    npm run dev
 
+
+Open the app in your browser at http://localhost:5173/ (if using Vite).
