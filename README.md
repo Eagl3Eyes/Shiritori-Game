@@ -9,14 +9,37 @@ A simple two-player Shiritori game built with React and Tailwind CSS. Players ta
 - Score tracking
 - Turn-based gameplay
 
+### How to Play
+
+- Player 1 enters a word and submits it.
+- Player 2 must enter a word starting with the last letter of Player 1's word.
+- Words cannot be repeated.
+- If a word is invalid, the player loses a point.
+- If the timer runs out before a word is entered, the player loses a point.
+- The game continues with alternating turns.
+
+### Technologies Used
+
+- React
+- Tailwind CSS
+- Dictionary API for word validation
+
+
 ## Setup & Installation
 
 ### Prerequisites
 - Node.js (>= 14)
 - npm or yarn
 
+
+
 ### Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/Eagl3Eyes/Shiritori-Game.git
    cd shiritori-game
+2. Install dependencies:
+Using npm:
+```sh
+npm install
+
