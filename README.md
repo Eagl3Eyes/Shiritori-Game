@@ -5,7 +5,7 @@ A simple two-player Shiritori game built with React and Tailwind CSS. Players ta
 ## Features
 - Two-player mode
 - Word validation using an API
-- Countdown timer (10 seconds per turn)
+- Countdown timer (15 seconds per turn)
 - Score tracking
 - Turn-based gameplay
 
