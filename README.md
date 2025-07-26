@@ -29,7 +29,8 @@ Shiritori-Game is a single-page web application that allows users to play the cl
 
 ## 🖥️ Screenshots
 
-TODO: Add actual screenshots
+<img width="630" height="402" alt="image" src="https://github.com/user-attachments/assets/69f65280-4599-433f-a036-2192c698cbb8" />
+
 
 ## 🛠️ Tech Stack
 
